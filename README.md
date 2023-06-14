@@ -19,4 +19,4 @@ tick():
 //This method is called every second.
 
 
- 
+ npm start 
